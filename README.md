@@ -1,3 +1,5 @@
+![image](https://github.com/angelodesenvolvedor/Consumo_Essencial_vs_Superfluo/assets/98216100/b2717cdf-83da-4ef0-9f1d-48d469a9114e)
+
 # Consumo Essencial vs. Supérfluo
 
 * Este projeto apresenta um exemplo de visualização de dados sobre o consumo essencial versus supérfluo ao longo de meses, utilizando gráficos.
