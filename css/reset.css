@@ -1,0 +1,50 @@
+/* Reset CSS */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+/* Estilos para o corpo da página */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0; /* Cor de fundo da página */
+  padding: 20px;
+}
+
+/* Estilos para o container do gráfico */
+.chart-container {
+  width: 800px; /* Largura padrão para dispositivos maiores */
+  height: 400px; /* Altura padrão para dispositivos maiores */
+  margin: 20px auto; /* Margem centralizada */
+  overflow-y: auto; /* Adiciona uma barra de rolagem vertical quando necessário */
+}
+
+/* Estilo para o parágrafo */
+p {
+  font-family: Arial, sans-serif;
+  color: #333; /* Cor do texto */
+  line-height: 1.5; /* Espaçamento entre linhas */
+  margin-bottom: 20px; /* Espaçamento inferior */
+  text-align: justify;
+}
+
+/* Estilizando a parte do texto sobre gastos essenciais */
+p .essential {
+  color: blue; /* Cor azul para representar gastos essenciais */
+}
+
+/* Estilizando a parte do texto sobre gastos supérfluos */
+p .non-essential {
+  color: red; /* Cor vermelha para representar gastos supérfluos */
+}
+
+/* Media query para smartphones Android */
+@media only screen and (max-width: 480px) {
+  .chart-container {
+    width: 100%; /* Largura total */
+    height: auto; /* Altura automática para se ajustar ao conteúdo */
+    margin: 10px auto; /* Margem centralizada com um espaço menor */
+    overflow-y: hidden; /* Esconder barra de rolagem vertical */
+  }
+}
