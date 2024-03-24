@@ -18,7 +18,7 @@
 
 ## 🧑🏽‍💻 Autor
 
--  **Angelo Silvano** - *Front-End Developer* - [nome_do_dev](https://github.com/link_do_Perfil)
+-  **Angelo Silvano** - *Front-End Developer* - [angelodesenvolvedor](https://github.com/link_do_Perfil)
   
 ## 📄 Licença
 
