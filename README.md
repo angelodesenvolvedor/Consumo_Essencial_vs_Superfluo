@@ -17,7 +17,9 @@
 - ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) - Utilizado para estilizar a página e os elementos HTML, proporcionando uma experiência visual agradável e consistente para os usuários.
 
 ## 🧑🏽‍💻 Autor
--  **Angelo Silvano** - *Função realizada* - [nome_do_dev](https://github.com/link_do_Perfil)
+
+-  **Angelo Silvano** - *Front-End Developer* - [nome_do_dev](https://github.com/link_do_Perfil)
   
-## Licença
-Este projeto está licenciado sob a [Licença XYZ](LICENSE.md).
+## 📄 Licença
+
+- Esse projeto está sob a licença (nome da licença) - acesse os detalhes [LICENSE.md](https://github.com/link_da_licenca).
