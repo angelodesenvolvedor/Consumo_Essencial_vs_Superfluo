@@ -22,4 +22,4 @@
   
 ## 📄 Licença
 
-- Esse projeto está sob a licença *MIT license* - acesse os detalhes [LICENSE.md](https://github.com/link_da_licenca).
+- Esse projeto está sob a licença *MIT license* - acesse os detalhes [LICENSE.md](https://github.com/angelodesenvolvedor/Consumo_Essencial_vs_Superfluo/tree/main?tab=MIT-1-ov-file).
