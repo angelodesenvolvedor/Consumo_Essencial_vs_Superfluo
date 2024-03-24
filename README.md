@@ -16,8 +16,8 @@
 - ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) - Utilizado para criar os gráficos interativos de consumo essencial versus supérfluo. A biblioteca Chart.js oferece uma maneira simples e poderosa de criar gráficos dinâmicos em páginas web.
 - ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) - Utilizado para estilizar a página e os elementos HTML, proporcionando uma experiência visual agradável e consistente para os usuários.
 
-## Autor
-- Desenvolvido por: [Seu Nome](https://github.com/seu-username)
-
+## 🧑🏽‍💻 Autor
+-  **Angelo Silvano** - *Função realizada* - [nome_do_dev](https://github.com/link_do_Perfil)
+  
 ## Licença
 Este projeto está licenciado sob a [Licença XYZ](LICENSE.md).
