@@ -11,7 +11,7 @@
 * Interatividade para explorar os valores de consumo em diferentes períodos.
 * Adaptabilidade para diferentes tamanhos de tela, garantindo uma experiência consistente em dispositivos móveis e desktops.
 
-## Tecnologias Utilizadas
+## 💻 Tecnologias Utilizadas
 - HTML5
 - JavaScript (Biblioteca Chart.js)
 - CSS
