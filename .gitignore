@@ -130,7 +130,7 @@ dist
 .pnp.*
 
 # {
-  "name": "FinançasControl",
+  "name": "Consumo Essencial vs. Supérfluo",
   "lockfileVersion": 3,
   "requires": true,
   "packages": {
