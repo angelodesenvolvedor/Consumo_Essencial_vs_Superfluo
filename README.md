@@ -12,9 +12,9 @@
 * Adaptabilidade para diferentes tamanhos de tela, garantindo uma experiência consistente em dispositivos móveis e desktops.
 
 ## 💻 Tecnologias Utilizadas
-- HTML5
-- JavaScript (Biblioteca Chart.js)
-- CSS
+- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) - Utilizado para estruturar a página web e seus elementos.
+- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) - Utilizado para criar os gráficos interativos de consumo essencial versus supérfluo. A biblioteca Chart.js oferece uma maneira simples e poderosa de criar gráficos dinâmicos em páginas web.
+- ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) - Utilizado para estilizar a página e os elementos HTML, proporcionando uma experiência visual agradável e consistente para os usuários.
 
 ## Autor
 - Desenvolvido por: [Seu Nome](https://github.com/seu-username)
