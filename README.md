@@ -1,4 +1,5 @@
-![image](https://github.com/angelodesenvolvedor/Consumo_Essencial_vs_Superfluo/assets/98216100/b2717cdf-83da-4ef0-9f1d-48d469a9114e)
+![image](https://github.com/angelodesenvolvedor/Consumo_Essencial_vs_Superfluo/assets/98216100/aecf04ae-d2e0-4c8f-820e-461971e93a0e)
+
 
 # Consumo Essencial vs. Supérfluo
 
